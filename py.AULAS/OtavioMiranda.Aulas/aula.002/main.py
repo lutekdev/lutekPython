@@ -1,0 +1,8 @@
+# DOCSTRINGS
+# Comentarios Multilinhas
+print("Hello, World")
+
+"""
+ISSO É UMA DOCSTRING
+AQUI VOCÊ PODE DOCUMENTAR SEU CÓDIGO, LEMBRANDO QUE NÃO É UM COMENTARIO.
+"""
