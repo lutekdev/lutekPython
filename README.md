@@ -41,6 +41,12 @@
 | --- | ------------- | ------------------ |
 | 001 | Exercicio 001 | [Arquivo Python]() |
 
+# Sumário Completo de Exercicios - Matheus Battisti
+
+| ID  | Titulos       | .PY                |
+| --- | ------------- | ------------------ |
+| 001 | Exercicio 001 | [Arquivo Python]() |
+
 
 # Sumário Completo de Aulas - Otavio Miranda
 
