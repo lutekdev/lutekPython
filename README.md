@@ -53,8 +53,8 @@
 
 # Sumário Completo de Exercicios
 
-| ID  | Titulos       | .PY                                      |
-| --- | ------------- | ---------------------------------------- |
-| 001 | Exercicio 001 | [Arquivo Python](./py.EX/ex.001/main.py) |
-| 002 | Exercicio 002 | [Arquivo Python](./py.EX/ex.002/main.py) |
-| 002 | Exercicio 003 | [Arquivo Python](./py.EX/ex.003/main.py) |
+| ID  | Titulos       | .PY                                                       |
+| --- | ------------- | --------------------------------------------------------- |
+| 001 | Exercicio 001 | [Arquivo Python](./py.EX/OtavioMiranda.EX/ex.001/main.py) |
+| 002 | Exercicio 002 | [Arquivo Python](./py.EX/OtavioMiranda.EX/ex.002/main.py) |
+| 002 | Exercicio 003 | [Arquivo Python](./py.EX/OtavioMiranda.EX/ex.003/main.py) |
