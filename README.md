@@ -28,7 +28,14 @@
 | ------------ | ------------------------------------- |
 | Dicas Python | [Dicas De Python](py.DICAS/README.md) |
 
-# Sumário Completo de Aulas
+
+# Sumário Completo de Aulas - Matheus Battisti
+| ID  | Titulos              | GUIA             | .PY                |
+| --- | -------------------- | ---------------- | ------------------ |
+| 001 | Comentario em Python | [Arquivo Guia]() | [Arquivo Pyhton]() |
+
+
+# Sumário Completo de Aulas - Otavio Miranda
 
 | ID  | Titulos                                                               | GUIA                                                              | .PY                                                                   |
 | --- | --------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- |
