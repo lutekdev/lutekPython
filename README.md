@@ -30,9 +30,9 @@
 
 
 # Sumário Completo de Aulas - Matheus Battisti
-| ID  | Titulos              | GUIA             | .PY                |
-| --- | -------------------- | ---------------- | ------------------ |
-| 001 | Comentario em Python | [Arquivo Guia]() | [Arquivo Pyhton]() |
+| ID  | Titulos              | GUIA             | .PY                                                                       |
+| --- | -------------------- | ---------------- | ------------------------------------------------------------------------- |
+| 001 | Comentario em Python | [Arquivo Guia]() | [Arquivo Pyhton](py.AULAS/MatheusBattisti.Aulas/aula.001/introducao.yaml) |
 
 
 # Sumário Completo de Aulas - Otavio Miranda
