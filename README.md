@@ -34,6 +34,12 @@
 | --- | -------------------- | ---------------- | ------------------------------------------------------------------------- |
 | 001 | Comentario em Python | [Arquivo Guia]() | [Arquivo Pyhton](py.AULAS/MatheusBattisti.Aulas/aula.001/introducao.yaml) |
 
+# Sumário Completo de Exercicios - Matheus Battisti
+
+| ID  | Titulos       | .PY                |
+| --- | ------------- | ------------------ |
+| 001 | Exercicio 001 | [Arquivo Python]() |
+
 
 # Sumário Completo de Aulas - Otavio Miranda
 
@@ -58,7 +64,7 @@
 | 017 | Operadores Relacionais (De Comparação) em Python                      | [Arquivo Guia](#)                                                 | [Arquivo Pyhton](./py.AULAS/OtavioMiranda.Aulas/aula.017/**main**.py) |
 
 
-# Sumário Completo de Exercicios
+# Sumário Completo de Exercicios - Otavio Miranda
 
 | ID  | Titulos       | .PY                                                       |
 | --- | ------------- | --------------------------------------------------------- |
