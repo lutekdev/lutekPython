@@ -12,19 +12,12 @@
 
 ---
 
-# 📚 Sumário Completo de Aulas - Andre Lacono
+# 📚 Sumário Completo de Aulas
 
-| ID  | Títulos              | GUIA                                                    | .PY |
-| --- | -------------------- | ------------------------------------------------------- | --- |
-| 001 | Introdução em Python | [Arquivo Guia](py.AULAS/AndreLacono/aula.001/README.md) |     |
-
-# 📚 Sumário Completo de Exercícios - Andre Lacono
-
-# 📚 Sumário Completo de Aulas - Matheus Battisti
-
-| ID  | Títulos                     | GUIA             | .PY                                                                       |
-| --- | --------------------------- | ---------------- | ------------------------------------------------------------------------- |
-| 001 | Por que Python?             | [Arquivo Guia]() | [Arquivo Python](py.AULAS/MatheusBattisti.Aulas/aula.001/introducao.yaml) |
-| 002 | Primeiro Programa em Python | [Arquivo Guia]() | [Arquivo Python](py.AULAS/MatheusBattisti.Aulas/aula002/main.py)          |
+| ID  | Títulos          | GUIA                                               |
+| --- | ---------------- | -------------------------------------------------- |
+| 001 | Andre Lacono     | [Arquivo Guia](py.AULAS/AndreLacono/README.md)     |
+| 002 | Matheus Battisti | [Arquivo Guia](py.AULAS/MatheusBattisti/README.md) |
+| 003 | Otávio Miranda   | [Arquivo Guia](py.AULAS/OtavioMiranda/README.md)   |
 
 ---
