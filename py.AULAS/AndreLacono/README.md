@@ -18,6 +18,8 @@
 | 010 | Entendendo o Slice                | [Arquivo Python](aula.010/main.py)   |
 | 011 | Utilizando Formated Strings       | [Arquivo Python](aula.011/main.py)   |
 | 012 | Métodos para Strings              | [Arquivo Python](aula.012/main.py)   |
+| 013 | Operações Matemáticas             | [Arquivo Python](aula.013/main.py)   |
+| 014 | Operadores de Comparação          | [Arquivo Python](aula.014/main.py)   |
 
 # 📚 Sumário de Exercícios
 
