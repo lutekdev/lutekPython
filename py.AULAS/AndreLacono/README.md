@@ -21,6 +21,7 @@
 | 013 | Operações Matemáticas             | [Arquivo Python](aula.013/main.py)       |
 | 014 | Operadores de Comparação          | [Arquivo Python](aula.014/main.py)       |
 | 015 | Operadores de Atribuição          | [Arquivo Python](aula.015/main.py)       |
+| 016 | If, Else e Elif                   | [Arquivo Python](aula.016/main.py)       |
 
 # 📚 Sumário de Exercícios
 
