@@ -40,6 +40,12 @@
 | 032 | Vários Argumentos Xargs Com Números         | [Arquivo Python](aula.032/main.py)       |
 | 033 | Vários Argumentos Xargs Nomeando Parâmetros | [Arquivo Python](aula.033/main.py)       |
 | 034 | Importando Um Módulo                        | [Arquivo Python](aula.034/main.py)       |
+| 035 | Introdução a Listas                         | [Arquivo Python](aula.035/main.py)       |
+| 036 | Manipulando Listas                          | [Arquivo Python](aula.036/main.py)       |
+| 037 | Funções Dentro de Listas                    | [Arquivo Python](aula.037/main.py)       |
+| 038 | Concatenando Listas                         | [Arquivo Python](aula.038/main.py)       |
+| 039 | Extraindo Variáveis de Listas               | [Arquivo Python](aula.039/main.py)       |
+| 040 | Looping Dentro De Uma Lista                 | [Arquivo Python](aula.040/main.py)       |
 
 # 📚 Sumário de Exercícios
 
