@@ -50,6 +50,7 @@
 | 042 | Agregando Duas Listas Com o Zip             | [Arquivo Python](aula.042/main.py)       |
 | 043 | Input Em Uma Lista                          | [Arquivo Python](aula.043/main.py)       |
 | 044 | Entendendo Sobre Tuples                     | [Arquivo Python](aula.044/main.py)       |
+| 045 | Trabalhando Com Arrays                      | [Arquivo Python](aula.045/main.py)       |
 
 # 📚 Sumário de Exercícios
 
