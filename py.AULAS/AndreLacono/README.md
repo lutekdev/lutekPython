@@ -46,6 +46,10 @@
 | 038 | Concatenando Listas                         | [Arquivo Python](aula.038/main.py)       |
 | 039 | Extraindo Variáveis de Listas               | [Arquivo Python](aula.039/main.py)       |
 | 040 | Looping Dentro De Uma Lista                 | [Arquivo Python](aula.040/main.py)       |
+| 041 | Verificando Itens Em Uma Linha              | [Arquivo Python](aula.041/main.py)       |
+| 042 | Agregando Duas Listas Com o Zip             | [Arquivo Python](aula.042/main.py)       |
+| 043 | Input Em Uma Lista                          | [Arquivo Python](aula.043/main.py)       |
+| 044 | Entendendo Sobre Tuples                     | [Arquivo Python](aula.044/main.py)       |
 
 # 📚 Sumário de Exercícios
 
