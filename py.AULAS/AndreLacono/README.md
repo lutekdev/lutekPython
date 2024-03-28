@@ -52,6 +52,7 @@
 | 044 | Entendendo Sobre Tuples                     | [Arquivo Python](aula.044/main.py)       |
 | 045 | Trabalhando Com Arrays                      | [Arquivo Python](aula.045/main.py)       |
 | 046 | Criando Sets                                | [Arquivo Python](aula.046/main.py)       |
+| 047 | Funções em Sets                             | [Arquivo Python](aula.047/main.py)       |
 
 # 📚 Sumário de Exercícios
 
