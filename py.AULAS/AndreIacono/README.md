@@ -53,6 +53,11 @@
 | 045 | Trabalhando Com Arrays                      | [Arquivo Python](aula.045/main.py)       |
 | 046 | Criando Sets                                | [Arquivo Python](aula.046/main.py)       |
 | 047 | Funções em Sets                             | [Arquivo Python](aula.047/main.py)       |
+| 048 | Sets Com Strings                            | [Arquivo Python](aula.048/main.py)       |
+| 049 | Introdução a Dicionários                    | [Arquivo Python](aula.049/main.py)       |
+| 050 | Atualizando Itens No Dicionários            | [Arquivo Python](aula.050/main.py)       |
+| 051 | Looping Dentro De Um Dicionário             | [Arquivo Python](aula.051/main.py)       |
+| 052 | Visualizando Itens, Keys e Values           | [Arquivo Python](aula.052/main.py)       |
 
 # 📚 Sumário de Exercícios
 

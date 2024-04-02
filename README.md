@@ -16,7 +16,7 @@
 
 | ID  | Títulos          | GUIA                                               |
 | --- | ---------------- | -------------------------------------------------- |
-| 001 | Andre Lacono     | [Arquivo Guia](py.AULAS/AndreLacono/README.md)     |
+| 001 | Andre Lacono     | [Arquivo Guia](py.AULAS/AndreIacono/README.md)     |
 | 002 | Matheus Battisti | [Arquivo Guia](py.AULAS/MatheusBattisti/README.md) |
 | 003 | Otávio Miranda   | [Arquivo Guia](py.AULAS/OtavioMiranda/README.md)   |
 
