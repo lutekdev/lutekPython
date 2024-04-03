@@ -58,6 +58,11 @@
 | 050 | Atualizando Itens No Dicionários            | [Arquivo Python](aula.050/main.py)       |
 | 051 | Looping Dentro De Um Dicionário             | [Arquivo Python](aula.051/main.py)       |
 | 052 | Visualizando Itens, Keys e Values           | [Arquivo Python](aula.052/main.py)       |
+| 053 | Conhecendo a Função Lambda                  | [Arquivo Python](aula.053/main.py)       |
+| 054 | Lambda Dentro De Uma Função                 | [Arquivo Python](aula.054/main.py)       |
+| 055 | Função Map Em Uma Lista                     | [Arquivo Python](aula.055/main.py)       |
+| 056 | Função Map Com Lambda                       | [Arquivo Python](aula.056/main.py)       |
+| 057 | Função Filter                               | [Arquivo Python](aula.057/main.py)       |
 
 # 📚 Sumário de Exercícios
 
