@@ -24,12 +24,12 @@
 
 ---
 
-| Assuntos                                           | Links                                         |
-| -------------------------------------------------- | --------------------------------------------- |
-| Ver Tipos de Variáveis para Ambientes de Testes    | [Clique Aqui](../py.AULAS/aula.005/README.md) |
-| Controlar as Casas Decimais                        | [Clique Aqui](../py.EX/ex.002/main.py)        |
-| Usar Nomeação Em Formatos de Resultados em Strings | [Clique Aqui](../py.AULAS/aula.013/main.py)   |
-| Ver Valores De Variáveis e Resultados              | [Clique Aqui](../py.AULAS/aula.014/main.py)   |
-| O que é Iterável                                   | [Clique Aqui](../py.AULAS/aula.021/README.md) |
+| Assuntos                                           | Links                                                                |
+| -------------------------------------------------- | -------------------------------------------------------------------- |
+| Ver Tipos de Variáveis para Ambientes de Testes    | [Clique Aqui](../py.AULAS/OtavioMiranda/py.Aulas/aula.005/README.md) |
+| Controlar as Casas Decimais                        | [Clique Aqui](../py.EX/OtavioMiranda.EX/ex.002/main.py)              |
+| Usar Nomeação Em Formatos de Resultados em Strings | [Clique Aqui](../py.AULAS/OtavioMiranda/py.Aulas/aula.013/main.py)   |
+| Ver Valores De Variáveis e Resultados              | [Clique Aqui](../py.AULAS/OtavioMiranda/py.Aulas/aula.014/main.py)   |
+| O que é Iterável                                   | [Clique Aqui](../py.AULAS/aula.021/README.md)                        |
 
 ---
