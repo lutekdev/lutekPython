@@ -66,6 +66,11 @@
 | 058 | Entendendo List Comprehension Com Strings   | [Arquivo Python](aula.058/main.py)       |
 | 059 | Entendendo List Comprehension Com Números   | [Arquivo Python](aula.059/main.py)       |
 | 060 | Lista e Generator Expressions               | [Arquivo Python](aula.060/main.py)       |
+| 061 | Trabalhando Com O Try e Except Com Lista    | [Arquivo Python](aula.061/main.py)       |
+| 062 | Trabalhando Com O Try e Except Com O Input  | [Arquivo Python](aula.062/main.py)       |
+| 063 | Adicionando o Else e Finally                | [Arquivo Python](aula.063/main.py)       |
+| 064 | Conhecendo Classes                          | [Arquivo Python](aula.064/main.py)       |
+| 065 | Criando A Minha Primeira Classe             | [Arquivo Python](aula.065/main.py)       |
 
 # 📚 Sumário de Exercícios
 
