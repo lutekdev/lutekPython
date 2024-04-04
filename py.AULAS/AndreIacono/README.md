@@ -63,6 +63,9 @@
 | 055 | Função Map Em Uma Lista                     | [Arquivo Python](aula.055/main.py)       |
 | 056 | Função Map Com Lambda                       | [Arquivo Python](aula.056/main.py)       |
 | 057 | Função Filter                               | [Arquivo Python](aula.057/main.py)       |
+| 058 | Entendendo List Comprehension Com Strings   | [Arquivo Python](aula.058/main.py)       |
+| 059 | Entendendo List Comprehension Com Números   | [Arquivo Python](aula.059/main.py)       |
+| 060 | Lista e Generator Expressions               | [Arquivo Python](aula.060/main.py)       |
 
 # 📚 Sumário de Exercícios
 
