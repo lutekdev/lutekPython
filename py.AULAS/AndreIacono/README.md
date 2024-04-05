@@ -71,6 +71,14 @@
 | 063 | Adicionando o Else e Finally                | [Arquivo Python](aula.063/main.py)       |
 | 064 | Conhecendo Classes                          | [Arquivo Python](aula.064/main.py)       |
 | 065 | Criando A Minha Primeira Classe             | [Arquivo Python](aula.065/main.py)       |
+| 066 | Criando Objetos Dentro de Uma Classe        | [Arquivo Python](aula.066/main.py)       |
+| 067 | Criando Construtores                        | [Arquivo Python](aula.067/main.py)       |
+| 068 | Adicionando mais funções a classe           | [Arquivo Python](aula.068/main.py)       |
+| 069 | Calculado a Idade Da Pessoa                 | [Arquivo Python](aula.069/main.py)       |
+| 070 | Criando Seu Primeiro Módulo                 | [Arquivo Python](aula.070/main.py)       |
+| 071 | Importando um Módulo                        | [Arquivo Python](aula.071/main.py)       |
+| 072 | Criando Packages                            | [Arquivo Python](aula.072/main.py)       |
+| 073 | Aplicando Um Módulo                         | [Arquivo Python](aula.073/main.py)       |
 
 # 📚 Sumário de Exercícios
 
